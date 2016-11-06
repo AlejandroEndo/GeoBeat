@@ -28,7 +28,7 @@ public class Music {
 
 		in = minim.getLineIn();
 
-		song = minim.loadFile("../data/freaks.wav");
+		song = minim.loadFile("../data/fool.wav");
 
 		song.loop();
 
